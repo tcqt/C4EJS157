@@ -1,0 +1,49 @@
+.container {
+  width: 100%;
+  padding: 10px 15px 10px 15px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #8b008b;
+  border: black;
+}
+
+.ul-mn-topic {
+  text-decoration-color: white;
+  width: auto;
+  max-width: 100%;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: relative;
+  -webkit-transition-duration: 300ms;
+  transition-duration: 300ms;
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+  white-space: nowrap;
+  padding-left: 0;
+}
+
+.flexbox {
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.banner-top {
+  background-size: auto;
+  background-image: url(https://t2.ex-cdn.com/crystalbay.com/resize/1860x570/files/content/2024/05/22/du-lich-nha-trang-1-1056.jpeg);
+  text-align: center;
+  width: 1000px;
+  height: 200px;
+}
+
+.text-banner {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xx-large;
+  color: white;
+}
